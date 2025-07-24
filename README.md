@@ -119,5 +119,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-For questions, collaboration, or feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or open an issue on this repository.
+For questions, collaboration, or feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tejas-singh-10j03/) or open an issue on this repository.
 
